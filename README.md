@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1> Hola a todo@s! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <h3> ¡Bienvenido a Mi Rincón Web! Aquí comparto proyectos web. Explorando tecnologías modernas. Soy un aprendiz junior y me gustaria que te unieras a mí en este viaje de aprendizaje y creatividad en el mundo de la programación web. 💻✨</h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Soy+Jonathan+Guevara;Desarrolador+Aplicaciones+Web+Jr;Frontend+Developer+Jr;Web+Developer;%50jonaloneli">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=470&height=75&lines=Soy+Jonathan+Guevara;Desarrollador+Aplicaciones+Web+Junior;Frontend+Developer+Jr;Web+Developer;%50jonaloneli">
 </p>
 <img src="https://komarev.com/ghpvc/?username=jonaloneli&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-## Most Used Languages 📚
+## Lenguajes más utilizados 📚
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonaloneli&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 <br>
 
 ------
-Credit: [jonaloneli](https://github.com/jonaloneli)
+Crédito: [jonaloneli](https://github.com/jonaloneli)
 
-Last Edited on: 30/03/2024
+Última edición el: 30/03/2024
