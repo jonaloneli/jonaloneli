@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Hola a todo@s! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<h4> ¡Bienvenido a Mi Rincón Web! Aquí comparto proyectos web. Explorando tecnologías modernas. Soy un aprendiz junior y me gustaria que te unieras a mí en este viaje de aprendizaje y creatividad en el mundo de la programación web. 💻✨</h4>
+<h4> ¡Bienvenido a Mi Rincón Web! Aquí compartiré proyectos web. Explorando tecnologías modernas. Soy un aprendiz junior y me gustaria que te unieras a mí en este viaje de aprendizaje y creatividad en el mundo de la programación web. 💻✨</h4>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=550&height=90&lines=Soy+Jonathan+Guevara;Desarrollador+de+Aplicaciones+Web+Junior;Frontend+Developer+Junior;Web+Developer+Junior;%40jonaloneli">
 </p>
