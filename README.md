@@ -66,6 +66,12 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</a>
 
 <!-- Frontend Frameworks/Libraries -->
 
