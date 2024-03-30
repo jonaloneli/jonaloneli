@@ -14,28 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-¡Bienvenido a Mi Rincón Web! Aquí comparto proyectos web. Explorarndo tecnologías modernas. Soy un aprendiz y me gustaria que te unieras a mí en este viaje de aprendizaje y creatividad en el mundo de la programación web. 💻✨
 <h1> Hola a todo@s! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h3> ¡Bienvenido a Mi Rincón Web! Aquí comparto proyectos web. Explorando tecnologías modernas. Soy un aprendiz junior y me gustaria que te unieras a mí en este viaje de aprendizaje y creatividad en el mundo de la programación web. 💻✨ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Soy+Jonathan+Guevara;Desarrolador+Aplicaciones+Web;Frontend+Developer;Web+Developer;%40jonaloneli">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Soy+Jonathan+Guevara;Desarrolador+Aplicaciones+Web+Junior;Frontend+Developer+Jr;Web+Developer;%40jonaloneli">
 </p>
-	<img src="https://komarev.com/ghpvc/?username=jonaloneli&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=jonaloneli&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 Actualmente estoy trabajando de Operador Informático N1
 
-- 👨‍💻
+- 👨‍💻 He finalizado CFGS de desarrollo de aplicaciones Web
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 También estoy adentrandome a aprender **React, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+- 📄 Actualmente estoy aprendiendo Programación Web en front-end
 
-- 📄 Learn more about my experiences at 
+- 📫 Ponte en contacto conmigo en **jonathan.htc79@gmail.com**
 
 
-### Connect with me 🔗 :
+
+
+### Puedes contactar conmigo 🔗 :
 <br>
 <p align='center'>
 <a href="mailto:jonathan.htc79@gmail.com" target="_blank">
@@ -54,13 +56,6 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -69,13 +64,6 @@ Here are some ideas to get you started:
 <!-- Web Development -->
 
 
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</a>
-
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
@@ -83,22 +71,7 @@ Here are some ideas to get you started:
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
-<!-- Mobile Development -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://expo.dev/" target="_blank">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-</a>
-
 <!-- Frontend Frameworks/Libraries -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-</a>
 
 <a href="https://getbootstrap.com/" target="_blank">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -114,14 +87,6 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
 
 <!-- Tools and Platforms -->
 
@@ -129,13 +94,13 @@ Here are some ideas to get you started:
 
 
 
-## Github Contribution Streak 🔥 
+## Contribuciones GitHub🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=jonaloneli&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
-## Github Stats &nbsp;📊
+## Estadísticas de Github &nbsp;📊
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=jonaloneli&show_icons=true&theme=github_dark">
