@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 Actualmente estoy trabajando de Operador Informático N1
+- 🌱 Actualmente estoy trabajando como Técnico de Sistemas informáticos
 
 - 👨‍💻 He finalizado CFGS de desarrollo de aplicaciones Web
 
